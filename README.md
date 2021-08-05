@@ -22,3 +22,6 @@ This folder contains the research I worked on and presented about different mate
 Fusion Files
 I’ve begun learning Fusion360 (CAD) this year and have made quite a bit of progress.
 This folder includes a PDF with some of my more relevant works and links to access the files as well as official explosion view documentation I created. Some of the more important projects I’ve worked on are the different eye dropper designs which are currently being used for a semester project I’m currently researching and working on.
+
+Flow Med-Tech
+CFD documentation compilation of summer internship work. Worked specifically with running simulations on FeBio and testing its effectiveness for FMT device design functions.
